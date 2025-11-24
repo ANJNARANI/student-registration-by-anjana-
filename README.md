@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Student Registration System
 
-#File Link- 
+#File Link-https://anjnarani.github.io/student-registration-by-anjana-/ 
 
 A simple student registration system built with HTML, CSS and JavaScript.
 Features:
@@ -19,7 +19,7 @@ Features:
 Open `index.html` in any browser.
 
 ## Notes
-This project was prepared and uploaded by **Alok Chaturvedi** for coursework submission.
+This project was prepared and uploaded by **Anjna Rani** for coursework submission.
 =======
 # student-registration-by-anjana-
 >>>>>>> 417513ca17a8cc2b040bb4b710c928a5aa29d634
